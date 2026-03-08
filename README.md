@@ -17,18 +17,9 @@
 ## 🚀 Getting Started
 Follow these steps to set up the project locally:
 
-1.  **Prerequisites**: [e.g., Ensure you have Python 3.x installed].
+1.  **Prerequisites**: 
+    1. Magisk
 2.  **Installation**:
-    ```bash
-    [Command to install dependencies, e.g., pip install -r requirements.txt]
-    ```
-3.  **Execution**:
-    ```bash
-    [Command to run the app, e.g., python main.py]
-    ```
-
-## 📸 Preview
-![Project Screenshot](https://via.placeholder.com)
 
 ## 👤 Author
 *   **[Your Name]** - [GitHub Profile](https://github.com) | [LinkedIn](https://linkedin.com)
