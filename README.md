@@ -2,12 +2,12 @@
 > A Magisk module with the ability to replace default emojis with the new NotoColor font emojis in the latest Unicode.
 
 ## 📋 Overview
-[Explain the main goal of the project and the specific problem it solves for the user].
+My main goal is to bring the new Unicode emojis to older devices.
 
 ## ✨ Key Features
-*   ⚙️ **Lasted Unicode**: It features the latest version of the Unicode Emoji.
+*   ⚙️ **[Lasted Unicode]**: It features the latest version of the Unicode Emoji.
 *   ⚙️ **[Easy installation]**: The installation is done through a Magisk module.
-*   ⚙️ **f**: [Short description].
+*   ⚙️ **[Compatibility with Samsung devices]**: It is compatible with most current Samgun devices.
 
 ## 🚀 Getting Started
 Follow these steps to set up the project locally:
