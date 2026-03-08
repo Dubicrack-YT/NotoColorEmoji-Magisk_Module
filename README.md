@@ -6,7 +6,7 @@
 
 ## ✨ Key Features
 *   ⚙️ **Lasted Unicode**: It features the latest version of the Unicode Emoji.
-*   ⚙️ **Easy installation**: The installation is done through a Magisk module.
+*   ⚙️ **[Easy installation]**: The installation is done through a Magisk module.
 *   ⚙️ **f**: [Short description].
 
 ## 🚀 Getting Started
@@ -22,7 +22,7 @@ Follow these steps to set up the project locally:
     4. Use the GBoard keyboard available on the Google Play Store.
 
 ## 👤 Author
-*   **Dubicrack YT** - [GitHub Profile]([https://github.com](https://github.com/Dubicrack-YT))
+*   **Dubicrack YT**
 
 ## 📄 License
 This project is licensed under the **GNU General Public License v3.0** - see the [LICENSE](LICENSE) file for details.
