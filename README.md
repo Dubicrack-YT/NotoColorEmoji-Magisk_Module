@@ -1,28 +1,28 @@
-# [Project Name] 🚀
-> [A brief, high-impact sentence describing what this project achieves].
+# NotoColorEmoji Magisk Module 🚀
+> A Magisk module with the ability to replace default emojis with the new NotoColor font emojis in the latest Unicode.
 
 ## 📋 Overview
 [Explain the main goal of the project and the specific problem it solves for the user].
 
 ## ✨ Key Features
-*   ⚙️ **[Feature 1]**: [Short description].
-*   ⚙️ **[Feature 2]**: [Short description].
-*   ⚙️ **[Feature 3]**: [Short description].
-
-## 🛠️ Built With
-*   [Tech/Language 1]
-*   [Tech/Language 2]
-*   [Tech/Language 3]
+*   ⚙️ **Lasted Unicode**: It features the latest version of the Unicode Emoji.
+*   ⚙️ **Easy installation**: The installation is done through a Magisk module.
+*   ⚙️ **f**: [Short description].
 
 ## 🚀 Getting Started
 Follow these steps to set up the project locally:
 
 1.  **Prerequisites**: 
     1. Magisk
+    2. GBoard
 2.  **Installation**:
+    1. Download NotoColorEmoji.zip
+    2. Flash the module with Magisk
+    3. Restart your device
+    4. Use the GBoard keyboard available on the Google Play Store.
 
 ## 👤 Author
-*   **[Your Name]** - [GitHub Profile](https://github.com) | [LinkedIn](https://linkedin.com)
+*   **Dubicrack YT** - [GitHub Profile]([https://github.com](https://github.com/Dubicrack-YT))
 
 ## 📄 License
 This project is licensed under the **GNU General Public License v3.0** - see the [LICENSE](LICENSE) file for details.
