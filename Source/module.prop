@@ -1,7 +1,0 @@
-id=NotoColorEmoji
-name=NotoColorEmoji
-version=v17
-versionCode=18400
-author=Dubicrack-YT
-description=Systemlessly replaces emoji font with NotoColorEmoji
-updateJson=https://raw.githubusercontent.com/Dubicrack-YT/NotoColorEmoji-Magisk_Module/refs/heads/main/updater.json
